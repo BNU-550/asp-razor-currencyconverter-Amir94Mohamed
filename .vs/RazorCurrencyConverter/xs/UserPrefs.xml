@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{ADA924B0-81EF-47EF-9DED-4FA5A7FEDF81}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="RazorCurrencyConverter/Pages/CurrencyConverter.cshtml">
     <Files>
-      <File FileName="RazorCurrencyConverter/Pages/CurrencyConverter.cshtml" Line="1" Column="1" />
+      <File FileName="RazorCurrencyConverter/Pages/CurrencyConverter.cshtml" Line="34" Column="12" />
       <File FileName="RazorCurrencyConverter/Pages/CurrencyConverter.cshtml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
