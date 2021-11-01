@@ -17,11 +17,11 @@
     <form method="post" class="mx-auto" style="width:200px">
         <p class="col-sm-2">
             <label for="sourceCurrency">GBP (£)</label>
-            <input type="number" required placeholder="0.00" asp-for="@Model.InputGBP" />
+            <input required type="number"  placeholder="0.00" asp-for="@Model.InputGBP" />
         </p>
         <p class="col-sm-2">
             <label for="destCurrency">EUR (€)</label>
-            <input type="number" asp-for="@Model.OutputEUR" value="@Model.OutputEUR.ToString("0.00")" readonly />
+            <input required type="number" asp-for="@Model.OutputEUR" value="@Model.OutputEUR.ToString("0.00")" readonly />
         </p>
         <p class="col-sm-2">
             <button type="submit" class="btn btn-primary">
