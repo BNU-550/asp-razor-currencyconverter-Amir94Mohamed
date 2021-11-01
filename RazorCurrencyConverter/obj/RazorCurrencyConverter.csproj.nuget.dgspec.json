@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter.csproj": {}
+    "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter.csproj": {}
   },
   "projects": {
-    "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter.csproj": {
+    "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter.csproj",
+        "projectUniqueName": "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter.csproj",
         "projectName": "RazorCurrencyConverter",
-        "projectPath": "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter.csproj",
+        "projectPath": "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter.csproj",
         "packagesPath": "/Users/amirmohamed/.nuget/packages/",
-        "outputPath": "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/obj/",
+        "outputPath": "/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/RazorCurrencyConverter/RazorCurrencyConverter/RazorCurrencyConverter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/amirmohamed/.config/NuGet/NuGet.Config"
